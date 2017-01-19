@@ -1,3 +1,7 @@
+__author__ = 'Serdar Haliloğlu'
+__version__ = '1.0'
+__license__ = 'GPL 3.0'
+
 import re
 import sys
 import os
